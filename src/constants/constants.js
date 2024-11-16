@@ -378,7 +378,7 @@ const projects = [
 //       "Participating in code reviews and providing constructive feedback to other developers.",
 //     ],
 //   },
-// ];
+// ]; 
 
 // const testimonials = [
 //   {
