@@ -170,8 +170,8 @@ const projects = [
       },
     ],
     image: inkSync,
-    source_code_link: "https://github.com/himanshu8443/InkSync",
-    live_link: "https://www.inksync.cloud/",
+    source_code_link: "https://prayaas.eu",
+    live_link: "https://prayaas.eu",
   },
   {
     name: "Hayasaka",
@@ -215,8 +215,8 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/himanshu8443/hayasaka",
-    live_link: "https://hayasaka.live/",
+    source_code_link: "https://prayaas.eu",
+    live_link: "https://prayaas.eu",
   },
   {
     name: "Study Notion",
@@ -256,8 +256,8 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/himanshu8443/Study-Notion-master",
-    live_link: "https://studynotion-master.vercel.app/",
+    source_code_link: "https://prayaas.eu",
+    live_link: "https://prayaas.eu",
   },
   {
     name: "FlipKart Price Tracker",
@@ -282,9 +282,8 @@ const projects = [
       },
     ],
     image: tracker,
-    source_code_link: "https://github.com/himanshu8443/FlipKart-Price-Tracker",
-    live_link:
-      "https://chromewebstore.google.com/detail/fliptrack-flipkart-price/pekpfcghlbljghaojdlajgpceebobokd?hl=en",
+    source_code_link: "https://prayaas.eu",
+    live_link: "https://prayaas.eu",
   },
   {
     name: "Social Sphere",
@@ -321,8 +320,8 @@ const projects = [
       },
     ],
     image: socialSphere,
-    source_code_link: "https://github.com/himanshu8443/SocialSphere",
-    live_link: "https://socialspherex.vercel.app/",
+    source_code_link: "https://prayaas.eu",
+    live_link: "https://prayaas.eu",
   },
 ];
 
