@@ -49,9 +49,7 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-4 text-secondary text-[18px] max-w-3xl leading-[30px] font-semibold'
         >
-        Skilled software developer with expertise in TypeScript, JavaScript, React, Node.js, and Three.js. 
-        Passionate about building scalable, user-friendly solutions that solve real-world problems.
-         Let's collaborate to bring your ideas to life!
+        Skilled in carding, cracking, bug hunting, and binning. Focused on uncovering vulnerabilities, navigating complex systems, and pushing boundaries to achieve results. Let's collaborate to explore innovative solutions and tackle real-world challenges.!
         </motion.p>
         <Image src={color_sharp} alt="color-sharp" className="absolute z-[-1] h-80 -left-60 w-screen -top-20" />
         <Image src={astronaut} alt="astronaut" className="absolute z-[-1] h-80 -right-20 animation top-28" />
