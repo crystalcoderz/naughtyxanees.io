@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react'
 import { navLinks } from '@/constants/constants'
 import { styles } from '@/styles'
 import { menu, close } from '@/assets'
-import logo from '@/assets/logo.svg'
+import logo from '@/assets/Untitled design_20241130_155345_0000.svg'
 import Image from 'next/image'
 
 const Navbar = () => {
